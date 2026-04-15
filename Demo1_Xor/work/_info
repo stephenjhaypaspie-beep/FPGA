@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/IntelFpga
+vtestbench
+Z0 !s110 1776261229
+!i10b 1
+!s100 J3H^LdRPgH8eb_088P]5j2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhF4RdL0=U2eXU2=AcQl]^0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/FPGA_Demo/Demo1_Xor
+w1776259169
+8C:/FPGA_Demo/Demo1_Xor/test bench.v
+FC:/FPGA_Demo/Demo1_Xor/test bench.v
+!i122 0
+L0 2 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1776261229.000000
+!s107 C:/FPGA_Demo/Demo1_Xor/test bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_Demo/Demo1_Xor/test bench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vxor_gate
+R0
+!i10b 1
+!s100 zKCPcKkn<nkh^=FS>5cM[0
+R1
+ICoH=jbdZYb21_il47KTlk2
+R2
+R3
+w1776259111
+8C:/FPGA_Demo/Demo1_Xor/xor_gate.v
+FC:/FPGA_Demo/Demo1_Xor/xor_gate.v
+!i122 1
+L0 14 18
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/FPGA_Demo/Demo1_Xor/xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_Demo/Demo1_Xor/xor_gate.v|
+!i113 1
+R6
+R7

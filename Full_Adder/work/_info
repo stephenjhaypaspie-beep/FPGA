@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/FPGA_Demo/Demo1_Xor
+vfull_adder
+!s110 1776262013
+!i10b 1
+!s100 V8QeUV[c;_SZRPXHPm2I82
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4[[FkWhV`MM;Pm^XHN8j72
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/FPGA_Demo/Full_Adder
+w1776259991
+8C:/FPGA_Demo/Full_Adder/full_adder.v
+FC:/FPGA_Demo/Full_Adder/full_adder.v
+!i122 0
+L0 16 24
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1776262013.000000
+!s107 C:/FPGA_Demo/Full_Adder/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_Demo/Full_Adder/full_adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtestbench
+!s110 1776262014
+!i10b 1
+!s100 8=o1JKh^3TSLBTl_T=nP91
+R0
+IR3<^azoLZJm_G?J[XIk>]3
+R1
+R2
+w1776261112
+8C:/FPGA_Demo/Full_Adder/test bench.v
+FC:/FPGA_Demo/Full_Adder/test bench.v
+!i122 1
+L0 3 34
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/FPGA_Demo/Full_Adder/test bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_Demo/Full_Adder/test bench.v|
+!i113 1
+R5
+R6
